@@ -1,1 +1,5 @@
-# Bulder02.Github.io
+# Mark Bulder
+
+### I am an Artist. This is my portfolio site.
+
+This is a *README* file for my repository. It is written using **Markdown**
