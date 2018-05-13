@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Mark Bulder</title>
-    <link rel="stylesheet" type="text/css" href="main.css">
-  </head>
-  <body>
-    <h1>I am Mark Bulder</h1>
-    <p>, I try to see what is around me for what it is and display it in a way our eyes can connect</p><p> Read more of my ideas before you see it in practice <a href="statement.html">Who I am.</a></p>
 
-  </body>
-</html>
 var drops = [];
 var gravity = 0.1;
 var growth = 1;
