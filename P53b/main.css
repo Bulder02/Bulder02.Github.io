@@ -1,18 +1,21 @@
 body {
-  margin: 0;
-  padding: 0;
+background-color: #c590cc;
+  margin: 30px auto;
+  max-width: 1000px;
   font-family: "Helvetica", "Arial", sans-serif;
   line-height: 1.5;
-  text-align: center;
+  padding: 30px 20px;
 }
 
-canvas {
-  margin: auto;
+h1 {
 
-  /* uncomment lines below if you want your canvas to cover the whole page
-  you will also have to create canvas to the window dimensions
-  in your p5 sketch, use: createCanvas(windowWidth, windowHeight); */
-  /* top: 0;
-  left: 0;
-  position: absolute; */
+  padding: 20px 0px 10px 0px;
+}
+body {
+text-align: center;
+}
+
+a {
+color: #2f2;
+text-decoration: none;
 }

@@ -1,4 +1,3 @@
-
 var drops = [];
 var gravity = 0.1;
 var growth = 1;
